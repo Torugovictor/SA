@@ -1,0 +1,27 @@
+.home {
+    text-align: center;
+  }
+  
+  .home button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff1f1f;
+    color: #e50000;
+    cursor: pointer;
+  }
+  
+  .home button:hover {
+    background-color: #fbfdfc;
+  }
+  .botao{
+    background-color: rgb(72, 5, 255);
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  .img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
